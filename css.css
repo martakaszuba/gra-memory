@@ -1,0 +1,134 @@
+* {
+    font-family: Calibri;
+    background-color:#FAFAFA;
+}
+
+.btnbig {
+    padding:14px 32px;
+    font-size:27px;
+    border:none;
+    background-color: #345989;
+    color:white;
+    cursor:pointer;
+    width:155px;
+    border-radius:5px;
+    }
+
+    .btnbig:hover {
+        opacity:0.8;
+    }
+
+.scclass {
+    padding:14px 32px;
+    font-size:27px;
+    border:none;
+    background-color: #172942;
+    color:white;
+    cursor:pointer;
+    width:180px;
+    border-radius:5px;
+    }
+
+    .scclass:hover {
+        background-color:#0c0f28;
+    }
+
+    .scclass:hover a{
+        background-color:#0c0f28;
+    }
+
+.btnbig a {
+    text-decoration:none;
+    background-color: #345989;
+    color:white;
+    cursor:pointer;
+}
+
+.scclass a {
+    text-decoration:none;
+    background-color: #172942;
+    color:#f2eaea;
+    cursor:pointer;
+}
+
+#container1 {
+    padding:50px;
+}
+
+#choice {
+    text-align:center;
+    padding:40px;
+}
+
+#game {
+    text-align:center;
+    font-size:40px;
+    color:#6876aa;
+}
+
+#scores1 {
+    margin-top:50px;
+}
+
+h1 {
+    color:#172942;
+}
+
+a {
+    color:#172942;   
+}
+
+.con {
+    width:48%;
+    float:left;
+    height:600px;
+    margin-left:10px;
+    margin-top:40px;
+}
+
+#surrounding {
+    height:650px;
+    width:100%;
+    margin:10px auto;
+    text-align:center;
+}
+
+#surrounding h2 {
+    margin-bottom:40px;
+    color:#345989;
+    font-size:26px;
+}
+
+td {
+    padding:7px 9px;
+    background-color:#FAFAFA;
+    border-bottom: 1px solid #ddd;
+}
+
+table {
+    border-collapse: collapse;
+    font-size:17px;  
+}
+
+#first td {
+    padding:13px 17px;
+}
+
+#first td b {
+    font-size:20px;
+}
+
+div table {
+    margin:0 auto;
+}
+
+.user {
+    width:180px;
+}
+
+.fa-arrow-left {
+cursor:pointer;
+position:relative;
+left:-50px;
+font-size:26px;
+}
