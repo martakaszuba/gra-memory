@@ -1,0 +1,210 @@
+* {
+    font-family:Calibri;
+    background-color:#FAFAFA;
+}
+
+#match {
+width:400px;
+height:400px;
+margin:20px auto;
+position:relative;
+}
+
+#results {
+width:350px;
+height:600px;
+}
+
+td {
+padding:7px 9px;
+border:1px solid black;
+}
+
+table {
+border-collapse: collapse;
+font-size:17px;
+}
+
+#first {
+    font-size:19px;
+}
+
+#first td {
+    padding:11px 10px;
+    background-color:#dce5ea;
+}
+
+#first td b {
+    background-color:#dce5ea;
+}
+
+#buttondiv {
+    clear:both;
+    width:400px;
+    text-align:center;
+    height:50px;
+    margin:0 auto;
+    padding:20px 0;
+}
+
+.btn {
+    padding:8px 14px;
+    font-size:19px;
+    border:none;
+    background-color: #345989;
+    color:white;
+    cursor:pointer;
+}
+
+.btn:focus {
+ opacity:0.8;
+}
+
+#clearbut {
+    margin-right:40px;
+}
+
+img {
+    border:1px solid black;
+}
+
+#clearbutton {
+    margin-top:20px;
+}
+
+#timediv {
+    margin:0 auto;
+    width:100px;
+    height:50px;
+}
+
+#timediv p {
+    font-size:18px;
+}
+
+.fa-arrow-left {
+    font-size:26px;
+    position:relative;
+    cursor:pointer;
+    left:70px;
+    top:40px;
+}
+
+#match2 {
+    width:600px;
+    height:500px;
+    margin:0 auto;
+    position:relative;
+    }
+    
+    #buttondiv2 {
+        clear:both;
+        width:300px;
+        text-align:center;
+        height:50px;
+        margin:8px auto;
+        padding-top:20px;
+        padding-bottom:5px;
+    }
+    
+    #timediv2 {
+        margin:0 auto;
+        width:100px;
+        height:30px;
+    }
+    
+    #timediv2 p {
+        font-size:18px;
+        margin:0;
+    }
+    
+    #clearbutton {
+        margin-top:20px;
+    }
+
+    .btnbig {
+        padding:14px 22px;
+        font-size:27px;
+        border:none;
+        background-color: #345989;
+        color:white;
+        cursor:pointer;
+        width:150px;
+        border-radius:5px;
+        }
+    
+        .btnbig:hover {
+            opacity:0.8;
+        }
+    
+    .scclass {
+        padding:14px 22px;
+        font-size:27px;
+        border:none;
+        background-color: #172942;
+        color:white;
+        cursor:pointer;
+        width:150px;
+        border-radius:5px;
+        }
+        .scclass:hover {
+            background-color:#0c0f28;
+        }
+        .scclass:hover a{
+            background-color:#0c0f28;
+        }
+    
+    
+    
+    .btnbig a {
+        text-decoration:none;
+        background-color: #345989;
+        color:white;
+        cursor:pointer;
+    }
+    
+    .scclass a {
+        text-decoration:none;
+        background-color: #172942;
+        color:#f2eaea;
+        cursor:pointer;
+    }
+    
+    #container1 {
+        padding:50px;
+    }
+    
+    #choice {
+        text-align:center;
+        padding:40px;
+    }
+    
+    #game {
+        text-align:center;
+        font-size:40px;
+        color:#6876aa;
+    }
+    
+    #scores1 {
+        margin-top:50px;
+    }
+    
+    #choice h1 {
+        padding-bottom:40px;
+    }
+    
+    #buttonclass {
+        width:330px;
+        height:60px;
+        margin:0 auto;
+    }
+    #easy {
+        float:left;
+    }
+    #hard {
+        float:right;
+    }
+    
+    #sc {
+        text-align:center;
+    }
